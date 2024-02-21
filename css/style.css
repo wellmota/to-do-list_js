@@ -82,7 +82,7 @@ ul li::before {
   height: 28px;
   width: 28px;
   border-radius: 50%;
-  background-image: url(/img/unchecked.png);
+  background-image: url(https://github.com/wellmota/to-do-list_js/blob/main/img/unchecked.png?raw=truegi);
   background-size: cover;
   background-position: center;
   top: 8px;
@@ -95,7 +95,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-  background-image: url(/img/checked.png);
+  background-image: url(https://github.com/wellmota/to-do-list_js/blob/main/img/checked.png?raw=true);
 }
 
 ul li span {
